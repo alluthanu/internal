@@ -1,0 +1,41 @@
+h1{
+    color:palevioletred;
+}
+h2{
+    color:black;
+    font-style: italic;
+}
+h3{
+    color:chartreuse;
+    font-style: italic;
+}
+h4{
+    color:darkviolet;
+    font-style: italic;
+}
+h5{
+    color:midnightblue;
+    font-style:italic;
+}
+h6{
+    color:green;
+    font-style: italic;
+}
+p{
+    text-transform: uppercase;
+}
+del{
+    color:hotpink;
+}
+em{
+    color:darkred;
+}
+ins{
+    color:lime;
+}
+sub{
+    color:aquamarine
+}
+sup{
+    color:darkblue;
+}

@@ -1,0 +1,27 @@
+h1.hover{
+    color:red;
+}
+h1.active{
+    color:blue;
+}
+li:first-child{
+    color:pink;
+}
+li:second-child{
+    color:blue;
+}
+li:third-child{
+    color:blue;
+}
+h2::first-letter{
+    color:greenyellow;
+}
+h2::first-line{
+    color:pink;
+}
+h2::before{
+    color:pink;
+}
+h2::after{
+    color:yellow;
+}
